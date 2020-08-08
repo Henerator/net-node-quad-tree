@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: rgba(36, 36, 36, 1);
+}
+
+#canvas {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
